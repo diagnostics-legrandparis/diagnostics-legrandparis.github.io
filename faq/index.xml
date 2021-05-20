@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-    <title>Foire aux questions on Bigspring Hugo</title>
+    <title>Foire aux questions on Diagnostics Le Grand Paris</title>
     <link>/faq/</link>
-    <description>Recent content in Foire aux questions on Bigspring Hugo</description>
-=======
-    <title>Frequently Asked Questions on Diagnostics Le Grand Paris</title>
-    <link>/faq/</link>
-    <description>Recent content in Frequently Asked Questions on Diagnostics Le Grand Paris</description>
->>>>>>> bde9ebb2d013d256a2e81f496d2553a371e7766e
+    <description>Recent content in Foire aux questions on Diagnostics Le Grand Paris</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>

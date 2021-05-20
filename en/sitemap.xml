@@ -68,6 +68,8 @@
                 href="/categories/"
                 />
   </url><url>
+    <loc>/cgv/</loc>
+  </url><url>
     <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -92,20 +94,6 @@
                 href="/faq/"
                 />
   </url><url>
-    <loc>/tarifs/</loc>
-  </url><url>
-    <loc>/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/privacy-policy/"
-                />
-  </url><url>
     <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -117,6 +105,8 @@
                 hreflang="en"
                 href="/tags/"
                 />
+  </url><url>
+    <loc>/tarifs/</loc>
   </url><url>
     <loc>/terms-conditions/</loc>
     <xhtml:link

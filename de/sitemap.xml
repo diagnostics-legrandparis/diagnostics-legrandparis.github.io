@@ -66,16 +66,6 @@
                 />
   </url><url>
     <loc>/de/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/privacy-policy/"
-                />
   </url><url>
     <loc>/de/faq/</loc>
     <xhtml:link

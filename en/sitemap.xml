@@ -2,65 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-  </url><url>
-    <loc>/blog/post-1/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/post-1/"
-                />
-  </url><url>
-    <loc>/blog/post-4/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-  </url><url>
-    <loc>/blog/post-5/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-  </url><url>
-    <loc>/blog/post-6/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/"
-                />
-  </url><url>
-    <loc>/blog/post-2/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-  </url><url>
-    <loc>/blog/post-3/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>/english/</loc>
   </url><url>
     <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/categories/"
+                hreflang="fr"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,56 +16,28 @@
                 href="/categories/"
                 />
   </url><url>
-    <loc>/cgv/</loc>
-  </url><url>
-    <loc>/contact/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/contact/"
+                hreflang="fr"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
-                />
-  </url><url>
-    <loc>/faq/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/faq/"
+                href="/"
                 />
   </url><url>
     <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
+                hreflang="fr"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/tags/"
-                />
-  </url><url>
-    <loc>/tarifs/</loc>
-  </url><url>
-    <loc>/terms-conditions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/terms-conditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/terms-conditions/"
                 />
   </url>
 </urlset>

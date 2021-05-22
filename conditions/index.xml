@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Privecy &amp; Policy on Diagnostics Le Grand Paris</title>
-    <link>/privacy-policy/</link>
-    <description>Recent content in Privecy &amp; Policy on Diagnostics Le Grand Paris</description>
+    <title>Conditions Générales de Vente on Diagnostics Le Grand Paris</title>
+    <link>/conditions/</link>
+    <description>Recent content in Conditions Générales de Vente on Diagnostics Le Grand Paris</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="/conditions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
